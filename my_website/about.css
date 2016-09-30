@@ -1,3 +1,42 @@
-body{
-    
+h1{
+    font-family: "Comic Sans MS", fantasy;
 }
+
+h1{
+    text-align:center;
+}
+img{
+    display:block;
+    margin:auto;
+}
+h1{
+    color:  #0041C2;
+    font-size: 75px;
+}
+
+th{
+    border:black solid 1px;
+    border-collapse: collapse;
+}
+table{
+    border-collapse: collapse;
+    color:#F52887;
+}
+h3{
+    font-family:"Comic Sans MS", fantasy;
+    color: #FFD801;
+}
+body{
+    background-color:#FFDFDD;
+    background-image: url("http://static.zerochan.net/Rita.(artist).full.69391.jpg");
+    color:#7D1B7E;
+    font-weight:bold;
+    font-size:20px;
+    font-family: "Comic Sans MS",fantasy;
+    
+    
+    
+    
+    
+    
+    
