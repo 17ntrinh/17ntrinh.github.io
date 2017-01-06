@@ -1,0 +1,44 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+    background-color: #111;
+}
+html{
+background-image:url("http://wiki.mitadmissions.org/images/thumb/7/73/Boston_Skyline.jpg/650px-Boston_Skyline.jpg")
+}
+
+h1{
+    font-family: Twilightfont, fantasy;
+    text-align: center;
+    font-size: 80px;
+h3{
+    color:white ;
+    font-family: Orange;
+    font-size: 25px;
+}
+body{
+    color:white;
+    font-size: 10px;
+    font-family: ArtBrewery;
+}
+
+

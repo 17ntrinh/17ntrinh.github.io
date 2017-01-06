@@ -1,5 +1,9 @@
+@font-face {
+    font-family: KGLifeisMessy;
+    src: url(KGLifeisMessy.ttf);
+}
 h1{
-    font-family: "Comic Sans MS", fantasy;
+    font-family: KGLifeisMessy, fantasy;
 }
 
 h1{
@@ -28,11 +32,18 @@ h3{
 }
 body{
     background-color:#FFDFDD;
-    background-image: url("http://static.zerochan.net/Rita.(artist).full.69391.jpg");
+    background-image: url(images/pinkbackground.png);
     color:#7D1B7E;
     font-weight:bold;
     font-size:20px;
-    font-family: "Comic Sans MS",fantasy;
+    font-family: KGLifeisMessy,fantasy;
+    background-repeat:no-repeat;
+    background-size:cover;
+}
+#credits li{
+    color:#407cdd;
+}
+
     
     
     
